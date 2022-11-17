@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LogicKorshikova</id>
+    <version>1.1.1</version>
+    <authors>Korshikova</authors>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\bin\Debug\net6.0\LogicKorshikova.dll" target="lib\net6.0\LogicKorshikova.dll" />
+    <file src="C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\License\license.txt" target="license.txt" />
+  </files>
+</package>

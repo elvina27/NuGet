@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicKorshikova", "..\Library\LogicKorshikova.csproj", "{F64E512E-6DEE-4CF4-A8A8-E7A6EB786D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Коммисия", "..\Коммисия\Коммисия.csproj", "{AA477E18-DA9A-4CB5-A7E6-9E45878F0D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64E512E-6DEE-4CF4-A8A8-E7A6EB786D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64E512E-6DEE-4CF4-A8A8-E7A6EB786D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64E512E-6DEE-4CF4-A8A8-E7A6EB786D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64E512E-6DEE-4CF4-A8A8-E7A6EB786D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA477E18-DA9A-4CB5-A7E6-9E45878F0D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA477E18-DA9A-4CB5-A7E6-9E45878F0D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA477E18-DA9A-4CB5-A7E6-9E45878F0D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA477E18-DA9A-4CB5-A7E6-9E45878F0D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7715A5E0-958E-49C6-B97B-2046D79E39B5}
+	EndGlobalSection
+EndGlobal

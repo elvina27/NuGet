@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i87/uKZkV4p3Gdv/thqJmm3VdU1nHB8Hwr13MUAO8wmYRKXwUB7RO6nrXUSiufP5Xs8AfphjBpF5TlGegXyQ3Q==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс\\NuGet\\NuGet\\UserStory-main (2)\\UserStory-main\\Коммисия\\Коммисия.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elvin\\.nuget\\packages\\logickorshikova\\1.1.1\\logickorshikova.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

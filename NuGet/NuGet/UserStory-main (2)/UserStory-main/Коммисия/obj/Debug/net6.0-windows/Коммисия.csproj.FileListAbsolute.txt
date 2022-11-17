@@ -1,0 +1,63 @@
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Abiturientinfo_form.resources
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Form1.resources
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Properties.Resources.resources
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.GenerateResource.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.AssemblyInfoInputs.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.AssemblyInfo.cs
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.exe
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.deps.json
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.runtimeconfig.json
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.dll
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.pdb
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\LogicKorshikova.dll
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.CopyComplete
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.dll
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\refint\Коммисия.dll
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.pdb
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.genruntimeconfig.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\ref\Коммисия.dll
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.exe
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.deps.json
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.runtimeconfig.json
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.dll
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.pdb
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\LogicKorshikova.dll
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Abiturientinfo_form.resources
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Form1.resources
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Properties.Resources.resources
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.GenerateResource.cache
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.AssemblyInfoInputs.cache
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.AssemblyInfo.cs
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.CopyComplete
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.dll
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\refint\Коммисия.dll
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.pdb
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.genruntimeconfig.cache
+C:\Users\koche\Desktop\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\ref\Коммисия.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.exe
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.deps.json
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.runtimeconfig.json
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\ref\Коммисия.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\Коммисия.pdb
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\bin\Debug\net6.0-windows\LogicKorshikova.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.AssemblyReference.cache
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Abiturientinfo_form.resources
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Form1.resources
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.Properties.Resources.resources
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.GenerateResource.cache
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.AssemblyInfoInputs.cache
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.AssemblyInfo.cs
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.CoreCompileInputs.cache
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.csproj.CopyComplete
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\ref\Коммисия.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.pdb
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Коммисия\obj\Debug\net6.0-windows\Коммисия.genruntimeconfig.cache

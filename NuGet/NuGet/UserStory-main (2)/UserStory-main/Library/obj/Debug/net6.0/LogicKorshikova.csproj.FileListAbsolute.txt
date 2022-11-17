@@ -1,0 +1,20 @@
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\bin\Debug\net6.0\LogicKorshikova.deps.json
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\bin\Debug\net6.0\LogicKorshikova.dll
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\bin\Debug\net6.0\LogicKorshikova.pdb
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.AssemblyInfoInputs.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.AssemblyInfo.cs
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.dll
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\refint\LogicKorshikova.dll
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.pdb
+C:\Users\koche\Desktop\k\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\ref\LogicKorshikova.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.csproj.AssemblyReference.cache
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.AssemblyInfoInputs.cache
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.AssemblyInfo.cs
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.csproj.CoreCompileInputs.cache
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\ref\LogicKorshikova.dll
+D:\3 курс\NuGet\NuGet\UserStory-main (2)\UserStory-main\Library\obj\Debug\net6.0\LogicKorshikova.pdb
